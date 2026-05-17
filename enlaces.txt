@@ -1,0 +1,19 @@
+═══════════════════════════════════════════════════════════
+     ENLACES DE ACCESO AL PORTAFOLIO
+     Estalin Medina Valdez - Fullstack Developer
+═══════════════════════════════════════════════════════════
+
+📁 RUTA LOCAL (Para abrir directamente):
+file:///C:/Users/User/Desktop/prueba/portafolio/index.html
+
+📱 CÓDIGO QR:
+Abre el archivo "qr-code.html" en tu navegador para ver el código QR
+
+═══════════════════════════════════════════════════════════
+
+INSTRUCCIONES:
+1. Para ver el portafolio: Abre index.html en tu navegador
+2. Para el QR: Abre qr-code.html en tu navegador
+3. Copia la ruta desde enlaces.txt o desde la página del QR
+
+═══════════════════════════════════════════════════════════
